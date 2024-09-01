@@ -1,3 +1,4 @@
+# Queue applications in call centre
 ## Introduction
 The strategic implementation of queue systems in call centres has become indispensable for
 managing high call volumes efficiently. As a fundamental aspect of call centre operations, queue
